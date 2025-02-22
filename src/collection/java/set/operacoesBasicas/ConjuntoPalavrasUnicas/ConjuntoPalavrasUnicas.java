@@ -46,7 +46,7 @@ public class ConjuntoPalavrasUnicas {
         conjuntoPalavras.adicionarPalavra("JavaScript");
         conjuntoPalavras.exibirPalavrasUnicas();
         conjuntoPalavras.removerPalavra("Python");
-        conjuntoPalavras.removerPalavra("HTML");
+        conjuntoPalavras.vefificarPalavra("HTML");
         conjuntoPalavras.exibirPalavrasUnicas();
 
         System.out.println("A palavra 'Java' está no conjunto? " + conjuntoPalavras.vefificarPalavra("Java"));
