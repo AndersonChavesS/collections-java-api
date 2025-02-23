@@ -1,4 +1,4 @@
-package collection.java.set.Pesquisa;
+package collection.java.set.Pesquisa.AgendaContatos;
 
 import java.util.HashSet;
 import java.util.Set;
